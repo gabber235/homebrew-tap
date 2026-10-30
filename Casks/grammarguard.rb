@@ -1,7 +1,7 @@
 # Filled in by tool/release.sh and pushed to gabber235/homebrew-tap.
 cask "grammarguard" do
-  version "1.2.1"
-  sha256 "98a9147c89c8739762f5d47e8aaeddb11ba9fa3fb6020819ff0bace3d179a6c5"
+  version "1.2.2"
+  sha256 "e938befdc1c238fc9fba637eb75315890d7836207fdc94bf2e2e144795d22026"
 
   url "https://github.com/gabber235/GrammarGuard/releases/download/v#{version}/GrammarGuard-macos.zip"
   name "GrammarGuard"
